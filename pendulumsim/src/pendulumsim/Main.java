@@ -1,5 +1,9 @@
 package pendulumsim;
-
+/**
+ * Constructs Pendulum object to start the pendulum visual.
+ * @author johnh
+ *
+ */
 public class Main {
 
 	public static void main(String[] args) {
